@@ -1,21 +1,454 @@
-Q: When did humans first come to America?
-A: 20,000 to 35,000 years before
+Context: Bananas are a staple starch for many tropical populations
+ In Western countries, bananas are used to make desserts such as banana bread
+ Banana bunchy top disease symptoms include dark green streaks of variable length in leaf veins, midribs and petioles
+ Dried bananas are ground to make banana flour
+ Bananas feature in Philippine cuisine, with desserts like maruya banana fritters
+ Bananas can be made into fruit preserves
+ including banana, abaca, plantain and ornamental bananas and Ensete spp
+ in the family Musaceae
+ The primary component of the aroma of fresh bananas is isoamyl acetate also known as banana oil, which, along with several other compounds such as butyl acetate and isobutyl acetate, is a significant contributor to banana flavor
+Banana bacterial wilt is a bacterial disease caused by Xanthomonas campestris pv
+ Banana chips are a snack produced from sliced and fried bananas, such as in Kerala
+ Since then it has been diagnosed in Central and East Africa, including the banana growing regions of Rwanda, the Democratic Republic of the Congo, Tanzania, Kenya, Burundi, and Uganda
+Banana bunchy top virus is a plant virus of the genus Babuvirus, family Nanonviridae affecting Musa spp
+ In Africa, matoke bananas are cooked in a sauce with meat and vegetables such as peanuts or beans to make the breakfast dish katogo
+ Pisang goreng, bananas fried with batter, is a popular street food in Southeast Asia
+ Depending upon cultivar and ripeness, the flesh can vary in taste from starchy to sweet, and texture from firm to mushy
+ musacearum
+ The virus is transmitted by the banana aphid Pentalonia nigronervosa and is widespread in Southeast Asia, Asia, the Philippines, Taiwan, Oceania and parts of Africa
 
-Q: What foods did settlers and native eat?
-A: corn (maize)
+Plantains are eaten cooked, often as fritters
+ Leaves become short and stunted as the disease progresses, becoming bunched at the apex of the plant
+Question: Bananas are what color?
+Answer: green
 
-Q: What animal did people ride?
-A: horse
+Context: Bananas are a staple starch for many tropical populations
+ Banana bunchy top disease symptoms include dark green streaks of variable length in leaf veins, midribs and petioles
+ In Western countries, bananas are used to make desserts such as banana bread
+ Dried bananas are ground to make banana flour
+ Bananas feature in Philippine cuisine, with desserts like maruya banana fritters
+ Bananas can be made into fruit preserves
+ Specifically, it explains why humans cannot perceive a reddish green or yellowish blue, and it predicts the color wheel: it is the collection of colors for which at least one of the two color channels measures a value at one of its extremes
+ including banana, abaca, plantain and ornamental bananas and Ensete spp
+ in the family Musaceae
+ It has been estimated that humans can distinguish roughly 10 million different colors
+ The primary component of the aroma of fresh bananas is isoamyl acetate also known as banana oil, which, along with several other compounds such as butyl acetate and isobutyl acetate, is a significant contributor to banana flavor
+ Humans are trichromaticthe retina contains three types of color receptor cells, or cones
 
-Q: What is the best house type did settlers and natives live in in your opinion?
-A: barrel houses
+The exact nature of color perception beyond the processing already described, and indeed the status of color as a feature of the perceived world or rather as a feature of our perception of the worlda type of qualiais a matter of complex and continuing philosophical dispute
+Banana bacterial wilt is a bacterial disease caused by Xanthomonas campestris pv
 
-Q: What did Europeans gain from Indian societies?
-A: transplanted from Europe to the New World.
+Light, no matter how complex its composition of wavelengths, is reduced to three color components by the eye
+Banana bunchy top virus is a plant virus of the genus Babuvirus, family Nanonviridae affecting Musa spp
+ Banana chips are a snack produced from sliced and fried bananas, such as in Kerala
+ Since then it has been diagnosed in Central and East Africa, including the banana growing regions of Rwanda, the Democratic Republic of the Congo, Tanzania, Kenya, Burundi, and Uganda
+ This is the part of the brain in which color is first processed into the full range of hues found in color space
+ Depending upon cultivar and ripeness, the flesh can vary in taste from starchy to sweet, and texture from firm to mushy
+Question: What color are bananas?
+Answer: green
 
-Q: Who were the first people in the new world?
-A: The Portuguese
+Context: 3, when viewed from space or when the Sun is high in the sky
 
-Q: Where did France make colonies?
-A: Florida and Brazil
+The Sun is moved by the gravitational pull of the planets
+ This is the time it would take the Sun to return to a stable state if the rate of energy generation in its core were suddenly changed
+ With this sequence of emissions and absorptions, it takes a long time for radiation to reach the Suns surface
+ Sunlight on the surface of Earth is attenuated by Earths atmosphere, so that less power arrives at the surface closer to 1,000 W/m2 in clear conditions when the Sun is near the zenith
+The Sun has eight known planets orbiting it
+The Sun emits light across the visible spectrum, so its color is white, with a CIE colorspace index near 0
+ The direction of the Suns motion, the Solar apex, is roughly in the direction of the star Vega
+3 seconds for neutrinos, which account for about 2 of the total energy production of the Sun, to reach the surface
+ The Solar radiance per wavelength peaks in the green portion of the spectrum when viewed from space
+ Some cultures mentally picture the Sun as yellow and some even red; the cultural reasons for this are debated
+ The Sun is classed as a G2 star, meaning it is a Gtype star, with 2 indicating its surface temperature is in the second range of the G class
+ The center of the Sun moves around the Solar System barycenter, within a range from 0
 
+The solar constant is the amount of power that the Sun deposits per unit area that is directly exposed to sunlight
+The Sun, taking along the whole Solar System, orbits the galaxys center of mass at an average speed of 230 km/s 828,000 km/h or 143 mi/s 514,000 mph, taking about 220250 million Earth years to complete a revolution a Galactic year, having done so about 20 times since the Suns formation
+ Sunlight at the top of Earths atmosphere is composed by total energy of about 50 infrared light, 40 visible light, and 10 ultraviolet light
+ Estimates of the photon travel time range between 10,000 and 170,000 years
+ The Suns motion around the barycenter approximately repeats every 179 years, rotated by about 30 due primarily to the synodic period of Jupiter and Saturn
+ Because energy transport in the Sun is a process that involves photons in thermodynamic equilibrium with matter, the time scale of energy transport in the Sun is longer, on the order of 30,000,000 years
+
+The Suns gravitational field is estimated to dominate the gravitational forces of surrounding stars out to about two lightyears 125,000 AU
+Question: What time does the sun set?
+Answer: 10,000 and 170,000 years
+
+Context: Illinois is located in the Midwest region of the United States and is one of the eight states in the Great Lakes region of North America which also includes Ontario, Canada
+ state
+ By 1857, Chicago was Illinoiss largest city
+ With the tremendous growth of mines and factories in the state in the 19th century, Illinois was the ground for the formation of labor unions in the United States
+
+Though it was ostensibly a free state, there was nonetheless slavery in Illinois
+
+After it was established in 1833, Chicago gained prominence as a Great Lakes port, and then as an Illinois and Michigan Canal port after 1848, and as a rail hub soon afterward
+In 1818, Illinois became the 21st U
+ When Illinois became a state in 1818, the Ordinance no longer applied, and about 900 slaves were held in the state
+The Illinois State Board of Education ISBE is autonomous of the governor and the state legislature, and administers public education in the state
+ The Illinois Constitution of 1848 was written with a provision for exclusionary laws to be passed
+ Located in Hancock County along the Mississippi River, Nauvoo flourished and, by 1844, briefly surpassed Chicago for the position of the states largest city
+ A sixth capitol building was erected in 1867, which continues to serve as the Illinois capitol today
+
+In 1832, the Black Hawk War was fought in Illinois and presentday Wisconsin between the United States and the Sauk, Fox Meskwaki, and Kickapoo Indian tribes
+ militia
+ Dix, Illinois became one of the first states to establish a system of statesupported treatment of mental illness and disabilities, replacing local almshouses
+ Edward Coles, the second Governor of Illinois who was born in Virginia, participated in a campaign to block extending existing slavery in Illinois after winning the 1822 Illinois gubernatorial election
+ Local municipalities and their respective school districts operate individual public schools, but the ISBE audits performance of public schools with the Illinois School Report Card
+ The adverse weather resulted in crop failures in the northern part of the state
+ As the southern part of the state, later known as Egypt or Little Egypt, was largely settled by migrants from the South, the section was hostile to free blacks
+ The southern part of the state shipped food north, and this may have contributed to its name, Little Egypt, after the Biblical story of Joseph in Egypt supplying grain to his brothers
+Question: What country is illinois located in?
+Answer: Midwest region of the United States
+
+Context: All natural hair colors are the result of two types of hair pigments
+ They are the most chromatic, vibrant optimal colors and thus the most vibrant colors that we are able to see
+ The quantity of hair hovers in a certain range depending on hair colour
+ An average blonde person has 150,000 hairs, a brownhaired person has 110,000, a blackhaired person has 100,000, and a redhead has 90,000
+Hair grows everywhere on the external body except for mucous membranes and glabrous skin, such as that found on the palms of the hands, soles of the feet, and lips
+ Eumelanin is the dominant pigment in brown hair and black hair, while pheomelanin is dominant in red hair
+ Blond hair is the result of having little pigmentation in the hair strand
+ Both of these pigments are melanin types, produced inside the hair follicle and packed into granules found in the fibers
+ The growth rate of hair varies from individual to individual depending on their age, genetic predisposition and a number of environmental factors
+ The growth rate of scalp hair somewhat depends on age hair tends to grow more slowly with age, sex, and ethnicity
+ Each strand of hair on the human body is at its own stage of development
+
+The body has different types of hair, including vellus hair and androgenic hair, each with its own type of cellular construction
+ It has been estimated that humans can distinguish roughly 10 million different colors
+ Scalp hair was reported to grow between 0
+ So maximum chroma colors are a type of optimal colors
+ Although we are, for now, unable to produce them, these are the colors that would be located in an ideal color wheel
+ It is commonly stated that hair grows about 1 cm per month on average; however reality is more complex, since not all hair grows at once
+ Specifically, it explains why humans cannot perceive a reddish green or yellowish blue, and it predicts the color wheel: it is the collection of colors for which at least one of the two color channels measures a value at one of its extremes
+
+The world record for longest hair on a living person stands with Smita Srivastava of Uttar Pradesh, India
+
+Light, no matter how complex its composition of wavelengths, is reduced to three color components by the eye
+Question: What color is the most common hair color?
+Answer: pheomelanin
+
+Context: All natural hair colors are the result of two types of hair pigments
+ Blond hair is the result of having little pigmentation in the hair strand
+ Eumelanin is the dominant pigment in brown hair and black hair, while pheomelanin is dominant in red hair
+Hair grows everywhere on the external body except for mucous membranes and glabrous skin, such as that found on the palms of the hands, soles of the feet, and lips
+ An average blonde person has 150,000 hairs, a brownhaired person has 110,000, a blackhaired person has 100,000, and a redhead has 90,000
+ The growth rate of scalp hair somewhat depends on age hair tends to grow more slowly with age, sex, and ethnicity
+ Each strand of hair on the human body is at its own stage of development
+ Both of these pigments are melanin types, produced inside the hair follicle and packed into granules found in the fibers
+ The growth rate of hair varies from individual to individual depending on their age, genetic predisposition and a number of environmental factors
+ The quantity of hair hovers in a certain range depending on hair colour
+
+It was previously thought that Caucasian hair grew more quickly than Asian hair and that the growth rate of womens hair was faster than that of men
+ The different construction gives the hair unique characteristics, serving specific purposes, mainly, warmth and protection
+ Visible growth of hair on the dead body happens only because of skin drying out due to water loss
+ Scalp hair was reported to grow between 0
+ Gray hair occurs when melanin production decreases or stops, while poliosis is white hair and often the skin to which the hair is attached, typically in spots that never possessed melanin at all, or ceased for natural reasons, generally genetic, in the first years of life
+ However, more recent research has shown that the growth rate of hair in men and women does not significantly differ and that the hair of Chinese people grew more quickly than the hair of French Caucasians and West and Central Africans
+
+The body has different types of hair, including vellus hair and androgenic hair, each with its own type of cellular construction
+ It is commonly stated that hair grows about 1 cm per month on average; however reality is more complex, since not all hair grows at once
+
+The world record for longest hair on a living person stands with Smita Srivastava of Uttar Pradesh, India
+ Hair growth stops after a humans death
+Question: Why do red hair look different from brown hair?
+Answer: little pigmentation
+
+Context:  Giant planets are significantly more massive than the terrestrials: Jupiter, Saturn, Uranus, and Neptune
+
+
+Dwarf planets are gravitationally rounded, but have not cleared their orbits of other bodies
+ The other eight all orbit beyond Neptune
+ It soon became apparent that they were rather different from previously known planets: they shared the same general region of space, between Mars and Jupiter the asteroid belt, with sometimes overlapping orbits
+ Earth is the largest terrestrial planet
+According to the IAU definition, there are eight planets in the Solar System, which are in increasing distance from the Sun: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune
+ The gas giants, Jupiter and Saturn, are primarily composed of hydrogen and helium and are the most massive planets in the Solar System
+ They differ from the terrestrial planets in composition
+
+The planets of the Solar System can be divided into categories based on their composition
+ Saturn is one third as massive as Jupiter, at 95 Earth masses
+ Thus he differentiated between the largest asteroids as true planets versus the smaller ones as collisional fragments
+ Scientists generally considered planetary satellites to also be planets until about the 1920s, although this usage was not common among nonscientists
+ The inferior planets Venus and Mercury and the superior planets Mars, Jupiter, and Saturn were all identified by Babylonian astronomers
+
+In the first decade of the 19th century, four new planets were discovered: Ceres in 1801, Pallas in 1802, Juno in 1804, and Vesta in 1807
+ Moreover, all of them are smaller than Mercury, with Pluto being the largest known dwarf planet and Eris being the most massive
+
+Neptune was discovered in 1846, its position having been predicted thanks to its gravitational influence upon Uranus
+ New planets were discovered every year; as a result, astronomers began tabulating the asteroids minor planets separately from the major planets and assigning them numbers instead of abstract planetary symbols, although they continued to be considered as small planets
+ These would remain the only known planets until the invention of the telescope in early modern times
+With the advent of the Scientific Revolution and the heliocentric model of Copernicus, Galileo, and Kepler, use of the term planet changed from something that moved around the sky relative to the fixed star to a body that orbited the Sun, directly a primary planet or indirectly a secondary or satellite planet
+ All nine are similar to terrestrial planets in having a solid surface, but they are made of ice and rock rather than rock and metal
+Question: What planets have rings around them?
+Answer: giants, Jupiter and Saturn
+
+Context: Andromeda TV series, science fiction series created by Gene Roddenberry
+Mass Effect: Andromeda, the fourth installment in the main Mass Effect series released in 2017
+HMS Andromeda, several warships of the Royal Navy
+Andromeda 1819, a 408ton English ship
+Andromedaclass attack cargo ship
+Andromeda 2015, a luxury yacht
+Andromeda, a Bavaria C50 sailing boat investigated by German authorities for its role in the Nord Stream pipelines sabotage
+Andromeda plant bog rosemary, a small, slender shrub native to Northern peat bogs
+Colloquially, Pieris fetterbushes, several large, broadleafed, mountain shrubs
+Question: How many solar systems in the Andromeda galaxy?
+Answer: 408ton
+
+Context:  It contains about two hundred billion 21011 stars and has a total mass of about six hundred billion 61011 times the mass of the Sun
+The largest galaxies are the typecD galaxies
+
+Our own galaxy, the Milky Way, is a large diskshaped barredspiral galaxy about 30 kiloparsecs in diameter and a kiloparsec thick
+A majority of spiral galaxies, including the Milky Way galaxy, have a linear, barshaped band of stars that extends outward to either side of the core, then merges into the spiral arm structure
+ These galaxies feature a central elliptical nucleus with an extensive, faint halo of stars extending to megaparsec scales
+A shell galaxy is a type of elliptical galaxy where the stars in its halo are arranged in concentric shells
+ About onetenth of elliptical galaxies have a shelllike structure, which has never been observed in spiral galaxies
+ They are popularly known as the supergiant elliptical galaxies and constitute the largest and most luminous galaxies known
+Andromeda TV series, science fiction series created by Gene Roddenberry
+Mass Effect: Andromeda, the fourth installment in the main Mass Effect series released in 2017
+There are natural and humanmade designed systems
+ For example, galaxy NGC 3923 has over 20 shells
+HMS Andromeda, several warships of the Royal Navy
+Andromeda 1819, a 408ton English ship
+Andromedaclass attack cargo ship
+Andromeda 2015, a luxury yacht
+Andromeda, a Bavaria C50 sailing boat investigated by German authorities for its role in the Nord Stream pipelines sabotage
+ Many barred spiral galaxies are active, possibly as a result of gas being channeled into the core along the arms
+ Humanmade systems may have such views as concept, analysis, design, implementation, deployment, structure, behavior, input data, and output data views
+
+The formation of these cD galaxies remains an active area of research, but the leading model is that they are the result of the mergers of smaller galaxies in the environments of dense clusters, or even those outside of clusters with random overdensities
+ Humanmade systems are made with various purposes that are achieved by some action performed by or with the system
+ In the Hubble classification scheme, these are designated by an SB, followed by a lowercase letter a, b or c which indicates the form of the spiral arms in the same manner as the categorization of normal spiral galaxies
+ A system model is required to describe and represent all these views
+A systems architecture, using one single integrated model for the description of multiple views, is a kind of system model
+ These structures are thought to develop when a larger galaxy absorbs a smaller companion galaxythat as the two galaxy centers approach, they start to oscillate around a center point, and the oscillation creates gravitational ripples forming the shells of stars, similar to ripples spreading on water
+Question: How many solar systems in the Andromeda Galaxy?
+Answer: 408ton
+
+Context:  It contains about two hundred billion 21011 stars and has a total mass of about six hundred billion 61011 times the mass of the Sun
+00 star, and about 100 times brighter than a sixth magnitude star 6
+ This means that a first magnitude star 1
+ The brightest stars, on either scale, have negative magnitude numbers
+ Their luminosity can be 100 times that of the Milky Way
+The apparent brightness of a star is expressed in terms of its apparent magnitude
+
+The most luminous known stars have absolute magnitudes of roughly 12, corresponding to 6 million times the luminosity of the Sun
+
+Our own galaxy, the Milky Way, is a large diskshaped barredspiral galaxy about 30 kiloparsecs in diameter and a kiloparsec thick
+ The faintest stars visible to the naked eye under good seeing conditions are about magnitude 6
+ This group includes novae and supernovae
+A majority of spiral galaxies, including the Milky Way galaxy, have a linear, barshaped band of stars that extends outward to either side of the core, then merges into the spiral arm structure
+6 lightyears
+44, but it has an absolute magnitude of 1
+ Sirius, the brightest star in the night sky as seen from Earth, is approximately 23 times more luminous than the Sun, while Canopus, the second brightest star in the night sky with an absolute magnitude of 5
+ Intrinsic or absolute magnitude is directly related to a stars luminosity, and is the apparent magnitude a star would be if the distance between the Earth and the star were 10 parsecs 32
+5 times brighter than a second magnitude 2
+ This group includes protostars, WolfRayet stars, and flare stars, as well as giant and supergiant stars
+
+On both apparent and absolute magnitude scales, the smaller the magnitude number, the brighter the star; the larger the magnitude number, the fainter the star
+2 billion lightyears distant
+ Of the intrinsically variable stars, the primary types can be subdivided into three principal groups
+Question: How many stars in the Andromeda Galaxy?
+Answer: two hundred billion 21011
+
+Context:  Citations outside the jurisdictions in question usually substitute the name of the state for the words the People in the case captions
+In criminal law, in certain jurisdictions, criminal prosecutions are brought in the name of the People
+ The people identifies the entire body of the citizens of a jurisdiction invested with political power or gathered for political purposes
+ states, including California, Illinois, and New York, use this style
+  Other states, such as Indiana, typically refer to themselves as the State in case captions and legal process
+ states, the people are judged to be the sovereign, even as in the United Kingdom and other dependencies of the British Crown, criminal prosecutions are typically brought in the name of the Crown
+ Outside the United States, criminal trials in Ireland and the Philippines are prosecuted in the name of the people of their respective states
+
+The political theory underlying this format is that criminal prosecutions are brought in the name of the sovereign; thus, in these U
+ Four states  Massachusetts, Virginia, Pennsylvania, and Kentucky  refer to themselves as the Commonwealth in case captions and legal process
+ Several U
+S
+S
+
+
+
+Question: Why do people name their kids after celebrities?
+Answer: political power or gathered for political purposes
+
+Searched Wikipedia.org page - it
+Context: a
+k
+
+Tag game, or It, since at least the fourth century BC
+It board game, a 1978 tank battle game
+it, the Internet toplevel domain for Italy
+Inferior temporal gyrus, a
+It girl, a charismatic young woman
+Cousin Itt, character in The Addams Family
+Getting It: The Psychology of est
+ IT cortex, a region of the brain
+IT file format, an audio file format used by Impulse Tracker
+IT, an electrical network earthing system
+Integration testing usually IT, a phase in software testing
+Intrathecal administration and intratracheal instillation, routes of drug administration
+Isomeric transition, a decay process in an atomic nucleus
+it drive 19982002, a 144 MB superfloppy drive by Caleb
+Question: What time is it?
+Answer: 1978
+
+Searched Wikipedia.org page - time
+Context: 
+In physics, time is a fundamental concept to define other quantities, such as velocity
+ Traditional definitions of time involved the observation of periodic motion such as the apparent motion of the sun across the sky, the phases of the moon, and the passage of a freeswinging pendulum
+ To avoid a circular definition, time in physics is operationally defined as what a clock reads, specifically a count of repeating events such as the SI second
+A time standard is a specification for measuring time: assigning a number or calendar date to an instant point in time, quantifying the duration of a time interval, and establishing a chronology ordering of events
+The concept of time can be complex
+ In quantum mechanics, time is treated as a universal and absolute parameter, differing from general relativitys notion of independent clocks
+
+The surface of the Earth is split into a number of time zones
+ Instead, the spacetime interval is calculated and classified as either spacelike or timelike, depending on whether an observer exists that would say the events are separated by space or by time
+ Standard time or civil time in a time zone deviates a fixed, round amount, usually a whole number of hours, from some form of Universal Time, usually UTC
+ Universal Time UT1 is mean solar time at 0 longitude, computed from astronomical observations
+ Coordinated Universal Time UTC is an atomic time scale designed to approximate Universal Time
+ Most time zones are exactly one hour apart, and by convention compute their local time as an offset from UTC
+ This time directionality is known as the arrow of time
+ Since the time required for light to travel a specific distance is the same for all observersa fact first publicly demonstrated by the MichelsonMorley experimentall observers will consistently agree on this definition of time as a causal relation
+ Terrestrial Time is a theoretical ideal scale realized by TAI
+
+International Atomic Time TAI is the primary international time standard from which other time standards are calculated
+
+The relationships between these different Arrows of Time is a hotly debated topic in theoretical physics
+Unlike space, where an object can travel in the opposite directions and in 3 dimensions, time appears to have only one dimension and only one direction  the past lies behind, fixed and immutable, while the future lies ahead and is not necessarily fixed
+ The Global Positioning System broadcasts a very precise time signal based on UTC time
+ The problem of time consists of reconciling these two theories
+Question: What is the time?
+Answer: what a clock reads
+
+Searched Wikipedia.org page - Gandhi
+Context: Gandhi focused his attention on Indians and Africans while he was in South Africa
+ The Nobel Peace Prize winner Nelson Mandela is among admirers of Gandhis efforts to fight against racism in Africa
+
+
+While in South Africa, Gandhi focused on the racial persecution of Indians before he started to focus on racism against Africans
+ During Gandhis lifetime, these ideas sounded strange outside India, but they readily and deeply resonated with the culture and historic values of his people
+ There, Gandhi nurtured his policy of peaceful resistance
+ Gandhi entered politics by forming the Natal Indian Congress
+
+In the years after black South Africans gained the right to vote in South Africa 1994, Gandhi was proclaimed a national hero with numerous monuments
+
+
+Gandhi also campaigned hard going from one rural corner of the Indian subcontinent to another
+ These ideas are evidenced in his pamphlets from the 1890s, in South Africa, where too Gandhi was popular among the Indian indentured workers
+ After he returned to India, people flocked to Gandhi because he reflected their values
+ Gandhi remarked that the Africans alone are the original inhabitants of the land
+ Scholars cite it as an example of evidence that Gandhi at that time thought of Indians and black South Africans differently
+In 2007, the United Nations General Assembly declared Gandhis birthday, 2 October, as the International Day of Nonviolence
+ Gandhi cited race history and European Orientalists opinions that AngloSaxons and Indians are sprung from the same Aryan stock or rather the IndoEuropean peoples and argued that Indians should not be grouped with the Africans
+ After several such incidents with Whites in South Africa, Gandhis thinking and focus changed, and he felt he must resist this and fight for rights
+
+According to Dennis Dalton, it was Gandhis ideas that were responsible for his wide following
+ In some cases, state Desai and Vahed, Gandhis behaviour was one of being a willing part of racial stereotyping and African exploitation
+ Initially, Gandhi was not interested in politics, but this changed after he was discriminated against and bullied, such as by being thrown out of a train coach due to his skin colour by a white train official
+ This led Gandhi to becoming disillusioned with the Empire and aroused a spiritual awakening within him; historian Arthur L
+
+In 1903, Gandhi started the Indian Opinion, a journal that carried news of Indians in South Africa, Indians in India with articles on all subjects social, moral and intellectual
+Question: Where is Gandhi from?
+Answer: South Africa
+
+Searched Wikipedia.org page - Falls
+Question: When was Niagara Falls founded?
+Answer: Waterfalls or rapids Falls, North Carolina, USA Falls
+
+Searched Wikipedia.org page - park
+Question: When was the Niagara Falls park founded?
+Answer: 1974
+
+Searched Wikipedia.org page - Lincoln
+Question: When did Abraham Lincoln give the Gettysburg Address
+Answer: Dixon
+
+Searched Wikipedia.org page - Argentina
+Question: What is the capital of Argentina?
+Answer: Buenos Aires
+
+Searched Wikipedia.org page - the Gettysburg Address
+Searched Wikipedia.org page - Abraham Lincoln
+Question: Why did Abraham Lincoln give the Gettysburg Address?
+Answer: Democracy is direct selfgovernment
+
+Searched Wikipedia.org page - Niagara Falls
+Question: When was Niagara Falls discovered?
+Answer: 10,900 years ago
+
+Searched Wikipedia.org page - Who
+Question: Who maded the communist manifesto?
+Answer: the Grinch
+
+Searched Wikipedia.org page - Communist
+Question: who made the Communist Manifesto?
+Answer: Friedrich Engels
+
+Searched Wikipedia.org page - second
+Searched Wikipedia.org page - the United States
+Question: Who is the second president of the United States?
+Answer: Martin Luther King Jr
+
+Searched Wikipedia.org page - second
+Searched Wikipedia.org page - the united states
+Searched Wikipedia.org page - united
+Searched Wikipedia.org page - states
+Searched Wikipedia.org page - president
+Question: Who is the second president of the united states?
+Answer: Gauss
+
+Searched Wikipedia.org page - the United States
+Searched Wikipedia.org page - president
+Searched Wikipedia.org page - States
+Searched Wikipedia.org page - United
+Question: Who is the president of the United States?
+Answer: president is the head of state, commanderinchief of the military
+
+Searched Wikipedia.org page - the United States
+Searched Wikipedia.org page - president
+Searched Wikipedia.org page - States
+Searched Wikipedia.org page - United
+Question: Who is the current sitting president of the United States?
+Answer: members are appointed by the sitting president
+
+Searched Wikipedia.org page - the United States
+Searched Wikipedia.org page - president
+Searched Wikipedia.org page - States
+Searched Wikipedia.org page - United
+Question: Who is the current president of the United States?
+Answer: president is the head of state, commanderinchief of the military
+
+Searched Wikipedia.org page - Joe
+Searched Wikipedia.org page - Biden
+Searched Wikipedia.org page - Joe Biden
+Question: how old is Joe Biden?
+Answer: 78
+
+Searched Wikipedia.org page - Joe
+Searched Wikipedia.org page - Biden
+Searched Wikipedia.org page - Joe Biden
+Question: how old is Joe Biden currently?
+Answer: 78
+
+Searched Wikipedia.org page - Joe
+Searched Wikipedia.org page - Biden
+Searched Wikipedia.org page - president
+Searched Wikipedia.org page - Joe Biden
+Question: how old is president Joe Biden currently?
+Answer: 78
+
+Searched Wikipedia.org page - banana
+Searched Wikipedia.org page - color
+Question: What color is a banana?
+Answer: blue
+
+Searched Wikipedia.org page - Bananas
+Searched Wikipedia.org page - color
+Question: Bananas are of what color?
+Answer: trichromaticthe
+
+Searched Wikipedia.org page - apples
+Searched Wikipedia.org page - color
+Question: What color are apples?
+Answer: reddish green or yellowish blue
+
+Searched Wikipedia.org page - color
+Searched Wikipedia.org page - bananas
+Searched Wikipedia.org page - banana
+Searched Wikipedia.org page - color
+Searched Wikipedia.org page - color
